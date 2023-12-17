@@ -1,0 +1,19 @@
+.salmon {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: rgb(241, 156, 170);
+}
+
+.salmon.bigger {
+  font-size: 24px;
+}
+
+#nature {
+  background-color: rgb(114, 244, 99);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#ocean {
+  color: rgb(21, 21, 208);
+  font-size: 36px;
+}
